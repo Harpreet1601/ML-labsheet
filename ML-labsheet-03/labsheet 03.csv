@@ -1,0 +1,36 @@
+﻿S.No.,Lab Task
+1,Load a regression dataset using the Pandas library.
+2,Display the first and last five records of the dataset.
+3,Explore dataset information and descriptive statistics.
+4,Identify input (independent) and output (dependent) variables.
+5,Split the dataset into training and testing sets.
+6,Implement a Simple Linear Regression model.
+7,Train the Linear Regression model using the training dataset.
+8,Predict output values using the trained Linear Regression model.
+9,Visualize the Linear Regression line using Matplotlib.
+10,Compare actual and predicted values.
+11,Display the regression coefficient and intercept.
+12,Predict the output for new user-defined input values.
+13,Implement Multiple Linear Regression using multiple independent variables.
+14,Train the Multiple Linear Regression model.
+15,Predict output values using the testing dataset.
+16,Compare actual and predicted values graphically.
+17,Analyze the effect of each independent variable on prediction.
+18,Implement Polynomial Regression of Degree 2.
+19,Implement Polynomial Regression of Degree 3.
+20,Compare Linear Regression and Polynomial Regression models.
+21,Visualize Polynomial Regression curves.
+22,Predict output values using the Polynomial Regression model.
+23,Compare prediction accuracy for different polynomial degrees.
+24,Calculate Mean Absolute Error (MAE).
+25,Calculate Mean Squared Error (MSE).
+26,Calculate Root Mean Squared Error (RMSE).
+27,Calculate the R-squared (R²) Score.
+28,Compare the performance of Linear and Polynomial Regression using evaluation metrics.
+29,Interpret the meaning of MSE and R² values.
+30,Visualize prediction errors using scatter plots.
+31,Train the regression model using standardized features.
+32,Compare model performance before and after feature scaling.
+33,Perform regression using another real-world dataset.
+34,Save the trained regression model using the Joblib library.
+35,Load the saved model and use it to predict new data.
